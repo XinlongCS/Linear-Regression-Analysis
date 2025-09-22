@@ -1,1 +1,1 @@
-Run all the codeblocks starting from the top and it will show the SGDRegressor and OLS results
+Run all the codeblocks in Google Colab or VS starting from the top and it will show the SGDRegressor and OLS tuned results
